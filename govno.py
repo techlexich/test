@@ -1,1 +1,2 @@
 print("monday") 
+print("govno") 
